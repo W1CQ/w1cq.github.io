@@ -1,0 +1,3 @@
+
+HOW TO PREVENT IMAGE CACHE IN PHP
+http://www.hamqsl.com/solarbrief.php?nocache=<?php echo time(); ?>
